@@ -1,0 +1,82 @@
+<resources>
+    Strings para el 1 layout
+    <string name="formularioregistro">Formulario De Registro</string>
+    <string name="logo">Instagram </string>
+    <string name="nombre">Nombre Completo: </string>
+    <string name="usuario">Nombre De Usuario: </string>
+    <string name="fechanacimiento">Fecha De Nacimiento: </string>
+    <string name="formatonacimiento">DD/MM/AAAA</string>
+    <string name="correo">Correo Electronico: </string>
+    <string name="formatocorreo">correo@dominio </string>
+    <string name="contraseña">Contraseña: </string>
+    <string name="registrarse">Registrarse </string>
+    <string name="alertacorrecta">Registro Exitoso</string>
+    <string name="iniciarsesion">Iniciar Sesión </string>
+
+
+
+     Strings para el 2 layout
+    <string name="bienvenido2">Bienvenido A Inicio De Sesión</string>
+    <string name="correoousuario2">Correo/Usuario: </string>
+    <string name="formatocorreousuario2">Correo o Usuario</string>
+    <string name="iniciarsesion2">Iniciar Sesión</string>
+    <string name="alertadeerror2">Verifique El Usuario o La Contraseña Ingresada</string>
+
+
+     Strings para el 3 layout
+    <string name="completarperfil3">--Completar Perfil De Usuario--</string>
+    <string name="subirfoto3">Subir Foto</string>
+    <string name="cambiarfoto3">Cambiar Foto</string>
+    <string name="guardarperfil3">Guardar Perfil</string>
+    <string name="ocupacion3">Ocupación: </string>
+    <string name="formatoocupacion3"> Ocupación </string>
+    <string name="lugarresidencia3">Lugar De Residencia:</string>
+    <string name="formatolugarresidencia">Ciudad o Estado</string>
+    <string name="informaciondecontacto3">Información De Contacto:</string>
+    <string name="formatocontacto3">Telefono</string>
+    <string name="textosituacion3">Situación Sentimental: </string>
+    <string-array name="situacionsentimental3">
+        <item>--Selecciona Una Opción--</item>
+        <item>Soltero/a</item>
+        <item>Casado/a</item>
+        <item>En Una Relación</item>
+        <item>Unión Libre</item>
+        <item>Divorciado/a</item>
+        <item>No Especificado</item>
+    </string-array>
+    <string name="texgenero">Género: </string>
+    <string-array name="genero3">
+        <item>--Selecciona Una Opción--</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>No Binario</item>
+        <item>No Especificado</item>
+    </string-array>
+    <string name="descripcion3">Descripción De Perfil:</string>
+    <string name="formatodescripcion3">Pasatiempos, gustos, experiencias, etc. </string>
+    <string name="finalizarregistro3">Finalizar Registro</string>
+
+    Strings para el 4 layout
+    <string name="perfil4">Perfil Completo</string>
+    <string name="opciones4">Opciones</string>
+    <string name="modificarperfil4">Modificar Perfil</string>
+    <string name="cerrarsesion4">Cerrar Sesión</string>
+
+
+     Strings para el 5 layout
+    <string name="opciones5">Opciones</string>
+    <string name="verperfil">Ver Perfíl</string>
+    <string name="cambiarcontraseña5">Cambiar Contraseña</string>
+    <string name="contraseñaactual5">Contraseña Actual:</string>
+    <string name="contraseñanueva5">Contraseña Nueva:</string>
+    <string name="contraseñarepita5">Ingrese De Nuevo La Contraseña:</string>
+    <string name="aceptar5">Guardar Cambios</string>
+    <string name="alertacorrecta5">La Contraseña Se Ha Cambiado Correctamente</string>
+    <string name="cambiarfondo5">Cambiar Fondo </string>
+    <string name="cambiarfondo15">Fondo 1</string>
+    <string name="cambiarfondo25">Fondo 2</string>
+    <string name="cambiarfondo35">Fondo 3</string>
+    <string name="cambiarfondo45">Fondo 4</string>
+
+
+</resources>
